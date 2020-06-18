@@ -1,4 +1,6 @@
 {
-  {"id": "1","title":"Recargas","body":"Recarga Movistar pre-pago"},
-  {"id": "2","title":"Electricidad","body":"Movistar pago de Facturas"}
+  "search" : [
+    {"id": "1","title":"Recargas","body":"Recarga Movistar pre-pago"},
+    {"id": "2","title":"Electricidad","body":"Movistar pago de Facturas"}
+  ]
 }
