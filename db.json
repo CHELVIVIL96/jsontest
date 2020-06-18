@@ -1,6 +1,58 @@
 {
-  "search" : [
-    {"id": "1","title":"Recargas","body":"Recarga Movistar pre-pago"},
-    {"id": "2","title":"Electricidad","body":"Movistar pago de Facturas"}
-  ]
+  "tagsByFunctionality": [
+    {
+      "id": 2,
+      "level": 1,
+      "iconAddress": "/profile",
+      "description": "Perfil",
+      "status": 1,
+      "channel": 101,
+      "link": "/",
+      "familyList": [
+        {
+          "id": 20021,
+          "description": "Grupo 1",
+          "tagsList": [
+            {
+              "id": 20069,
+              "description": "Datos personales",
+              "value": null
+            },
+            {
+              "id": 20070,
+              "description": "Gestionar favoritos",
+              "value": null
+            },
+            {
+              "id": 20071,
+              "description": "Cambiar clave",
+              "value": null
+            },
+            {
+              "id": 20072,
+              "description": "Cambiar PIN",
+              "value": null
+            }
+          ]
+        },
+        {
+          "id": 20022,
+          "description": "Grupo 2",
+          "tagsList": [
+            {
+              "id": 20073,
+              "description": "Aumentar límite de crédito",
+              "value": null
+            },
+            {
+              "id": 20074,
+              "description": "Tarjetas adicionales",
+              "value": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "type": "success"
 }
